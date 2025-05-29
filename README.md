@@ -1,7 +1,7 @@
 # SocialGram
 
 [![Vercel](https://img.shields.io/badge/deployed%20on-Vercel-000000?logo=vercel)](https://socialgram.vercel.app)  
-Live Demo: https://socialgram.vercel.app
+Live Demo: https://socialgramapp.vercel.app/
 
 A modern social networking web application for sharing photos, following users, and engaging through comments and likes—built with Next.js, Tailwind CSS, and Convex.
 
